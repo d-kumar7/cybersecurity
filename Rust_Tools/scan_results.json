@@ -1,0 +1,12 @@
+{
+  "target": "127.0.0.1",
+  "start_port": 75,
+  "end_port": 85,
+  "total_open_ports": 1,
+  "results": [
+    {
+      "port": 80,
+      "banner": "No banner / Unknown Service"
+    }
+  ]
+}

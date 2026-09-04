@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "recon",
+    "scan",
+    "auditor"
+]
+resolver = "2"
